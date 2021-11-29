@@ -1,0 +1,11 @@
+{
+	"name": "U-",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/Brunohes/U-.git",
+	"author": "Bruno Henrique Espírito Santo <brunohes@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"date-fns": "^2.26.0"
+	}
+}
