@@ -1,3 +1,3 @@
 # Some Snippets
 
-# For better view use Quokka Plugin
+For better view use Quokka Plugin
